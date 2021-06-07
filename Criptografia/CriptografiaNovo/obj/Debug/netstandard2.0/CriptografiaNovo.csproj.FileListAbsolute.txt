@@ -1,0 +1,9 @@
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\bin\Debug\netstandard2.0\CriptografiaNovo.deps.json
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\bin\Debug\netstandard2.0\CriptografiaNovo.dll
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\bin\Debug\netstandard2.0\CriptografiaNovo.pdb
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.AssemblyInfo.cs
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.dll
+C:\Users\home\source\repos\Criptografia\Criptografia\CriptografiaNovo\obj\Debug\netstandard2.0\CriptografiaNovo.pdb

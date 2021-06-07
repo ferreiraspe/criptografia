@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\bin\Debug\CriptografiaNovo.dll
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\bin\Debug\CriptografiaNovo.pdb
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\obj\Debug\Criptografia.csprojAssemblyReference.cache
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\obj\Debug\Criptografia.csproj.CopyComplete
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\home\source\repos\Criptografia\Criptografia\Criptografia\obj\Debug\Criptografia.pdb

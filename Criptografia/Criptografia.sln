@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{EBC9268C-4653-48A2-B205-6477B3241872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptografiaNovo", "CriptografiaNovo\CriptografiaNovo.csproj", "{97FD08D2-0C39-4C8A-8B32-1DAF2F6287E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC9268C-4653-48A2-B205-6477B3241872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC9268C-4653-48A2-B205-6477B3241872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC9268C-4653-48A2-B205-6477B3241872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC9268C-4653-48A2-B205-6477B3241872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FD08D2-0C39-4C8A-8B32-1DAF2F6287E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FD08D2-0C39-4C8A-8B32-1DAF2F6287E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FD08D2-0C39-4C8A-8B32-1DAF2F6287E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FD08D2-0C39-4C8A-8B32-1DAF2F6287E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD088B5C-EA25-4CF4-B8D4-AF54CFF52C0A}
+	EndGlobalSection
+EndGlobal
